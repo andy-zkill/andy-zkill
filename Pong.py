@@ -1,6 +1,5 @@
 # Imports
 import pygame
-from time import sleep
 
 # Pygame init
 pygame.init()
